@@ -1,0 +1,60 @@
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\mainFont.spritefont
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\mainFont.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\testLevel.txt
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\gdaps2game_reborn.exe
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\gdaps2game_reborn.pdb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.exe
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.pdb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level1.txt
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\jumpCycle.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\throwCycle.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\walkCycle.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level2.txt
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level3.txt
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Sprites5.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\StartScreen.xnb
+C:\Users\Aaron\Desktop\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\PauseScreen.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level1.txt
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level2.txt
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Level3.txt
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\mainFont.spritefont
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\mainFont.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\jumpCycle.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\throwCycle.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\walkCycle.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\StartScreen.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\Sprites5.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\PauseScreen.xnb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\Content\testLevel.txt
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\gdaps2game_reborn.exe
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\gdaps2game_reborn.pdb
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.exe
+C:\Users\Aaron\Desktop\College Experience\Freshman Year\Freshman Year\Semester 2\GDAPS2\GDAPS2 Game folder\gdaps2game_reborn\obj\Debug\gdaps2game_reborn.pdb
